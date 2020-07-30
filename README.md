@@ -5,7 +5,7 @@ The code tries to learn the probability distribution of Marvel Characters from t
 
 The Gan model consists of two neural networks-<br>
 1. A convolutional network, which acts as discriminator D.
-2. A devolutional network, which acts as a generator G.
+2. A deconvolutional network, which acts as a generator G.
 
 The generator takes a random input, sometimes called noise vector to produce a fake image.
 
