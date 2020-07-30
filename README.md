@@ -23,6 +23,6 @@ There are total 1500 epochs.
 
 
 The photos generated to learn looks meaningless at first instance but if we take a closer look a the examples we can clearly see
-the model has learned to make some edges and form comic book like patters.
+the model has learned to make some edges and form comic book like patterns.
 
 The data set is not provided due to privacy reasons.
